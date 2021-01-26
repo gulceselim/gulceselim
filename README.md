@@ -1,4 +1,5 @@
-### Hi there 👋
+
+<!--### Hi there 👋
 
 
 <p align="center">
@@ -17,7 +18,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/gulceselim?style=social)
 
 
-<!--
 **gulceselim/gulceselim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
