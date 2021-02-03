@@ -2,9 +2,6 @@
 </a><a href="https://www.linkedin.com/in/gulceselim/" target="_blank" rel="nofollow"><img align="right" alt="Selim's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:gulceselim6@gmail.com" target="_blank" rel="nofollow"><img align="right" alt="Selim's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-[![GitHub followers](https://img.shields.io/github/followers/gulceselim?style=social)](https://github.com/gulceselim?tab=followers)
-![GitHub stars](https://img.shields.io/github/stars/gulceselim?style=social)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=gulceselim.visitor-badge)](https://GitHub.com/gulceselim/StrapDown.js/stargazers/)
 
 
 
