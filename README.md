@@ -1,16 +1,18 @@
 ![GitHub followers](https://img.shields.io/github/followers/gulceselim?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/gulceselim?style=social)
 ![Github visitors](https://visitor-badge.glitch.me/badge?page_id=gulceselim.visitor-badge)
-### Hi there 👋
 
-Contact with me via these platforms!
-
-
-<p align="center">
-  <a href="mailto:gulceselim6@gmail.com"><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/gmail-30-722694.png"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gulceselim/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/gulceselim_"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<p align="right">
+  <a href="mailto:gulceselim6@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gulceselim/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/gulceselim_"><img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
 </p>
+
+
+
+### Hi 👋, I'm Selim
+
+
 
 
 <p align="center">
