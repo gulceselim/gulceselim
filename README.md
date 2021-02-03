@@ -3,7 +3,8 @@
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=gulceselim.visitor-badge)](https://GitHub.com/gulceselim/StrapDown.js/stargazers/)
 
 
-## Hi 👋, I'm Selim
+## Hi 👋
+I'm Selim! I am improving myself on projects related to web and mobile.
 
 Contact with me via these platforms! 
 
