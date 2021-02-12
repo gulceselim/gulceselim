@@ -1,3 +1,5 @@
+<img src="https://github.com/gulceselim/gulceselim/blob/main/readme_banner.png"></img>
+
 [![GitHub followers](https://img.shields.io/github/followers/gulceselim?style=social)](https://github.com/gulceselim?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/gulceselim?style=social)
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=gulceselim.visitor-badge)](https://GitHub.com/gulceselim/StrapDown.js/stargazers/)
@@ -16,6 +18,7 @@ Contact with me via these platforms!
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gulceselim&count_private=true&show_icons=true&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulceselim&hide=html,python,jupyter notebook&layout=compact&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=gulceselim&repo=re-cap-project-with-csharp&show_icons=true&theme=tokyonight"
 </p>
 
 
