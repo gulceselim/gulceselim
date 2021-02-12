@@ -28,7 +28,9 @@ Contact with me via these platforms!
   <a href="https://github.com/gulceselim/re-cap-project-with-csharp">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=gulceselim&repo=re-cap-project-with-csharp&show_icons=true&theme=tokyonight"</img>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=gulceselim&repo=gulceselim&show_icons=true&theme=tokyonight"</img>
+  <a href="https://github.com/gulceselim/gulceselim">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=gulceselim&repo=gulceselim&show_icons=true&theme=tokyonight"</img>
+  </a>
 </p>
 
 
