@@ -6,7 +6,7 @@
 
 
 # Hi 👋
-I'm Selim! I am improving myself on projects related to web and mobile. I interested in back-end development using with ASP.NET CORE. Also I start to develop Javascript projects with Vue.js.
+I'm Selim! I am improving myself on projects related to web and mobile. I interested in back-end development using with ASP.NET Core. Also I start to develop Javascript projects with Vue.js.
 
 Contact with me via these platforms! 
 
