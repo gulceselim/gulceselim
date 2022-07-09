@@ -6,7 +6,7 @@
 
 
 # Hi 👋
-I'm Selim! I am improving myself on projects related to mobile.
+<p align="center">I'm Selim! I am improving myself on projects related to mobile.</p>
 
 Contact with me via these platforms! 
 
