@@ -33,8 +33,8 @@ Contact with me via these platforms!
 
 ## 📊 GitHub Stats
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=gulceselim&count_private=true&show_icons=true&theme=tokyonight">
+[![GitHub Streak](https://streak-stats.demolab.com?user=gulceselim&theme=dark)](https://git.io/streak-stats)
+<!--<img src="https://github-readme-stats.vercel.app/api?username=gulceselim&count_private=true&show_icons=true&theme=tokyonight">-->
 
 
 
