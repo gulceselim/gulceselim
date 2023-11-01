@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/gulceselim?style=social)](https://github.com/gulceselim?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/gulceselim?style=social)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgulceselim&label=Visitors&labelColor=%23dce775&countColor=%23ba68c8&style=flat&labelStyle=lower)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgulceselim&label=Visitors&labelColor=%23d9e3f0&countColor=%23697689&style=flat&labelStyle=lower)
 
 
 # Hi 👋
