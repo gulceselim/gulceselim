@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/gulceselim?style=social)](https://github.com/gulceselim?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/gulceselim?style=social)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=gulceselim.visitor-badge)](https://GitHub.com/gulceselim/StrapDown.js/stargazers/)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgulceselim&label=Visitors&labelColor=%23dce775&countColor=%23ba68c8&style=flat&labelStyle=lower)
 
 
 # Hi 👋
